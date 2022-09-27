@@ -1,0 +1,15 @@
+/Users/Jarigo/Projects/obj/Debug/net6.0/Projects.csproj.AssemblyReference.cache
+/Users/Jarigo/Projects/obj/Debug/net6.0/Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jarigo/Projects/obj/Debug/net6.0/Projects.AssemblyInfoInputs.cache
+/Users/Jarigo/Projects/obj/Debug/net6.0/Projects.AssemblyInfo.cs
+/Users/Jarigo/Projects/obj/Debug/net6.0/Projects.csproj.CoreCompileInputs.cache
+/Users/Jarigo/Projects/bin/Debug/net6.0/Projects
+/Users/Jarigo/Projects/bin/Debug/net6.0/Projects.deps.json
+/Users/Jarigo/Projects/bin/Debug/net6.0/Projects.runtimeconfig.json
+/Users/Jarigo/Projects/bin/Debug/net6.0/Projects.dll
+/Users/Jarigo/Projects/bin/Debug/net6.0/Projects.pdb
+/Users/Jarigo/Projects/obj/Debug/net6.0/Projects.dll
+/Users/Jarigo/Projects/obj/Debug/net6.0/refint/Projects.dll
+/Users/Jarigo/Projects/obj/Debug/net6.0/Projects.pdb
+/Users/Jarigo/Projects/obj/Debug/net6.0/Projects.genruntimeconfig.cache
+/Users/Jarigo/Projects/obj/Debug/net6.0/ref/Projects.dll
